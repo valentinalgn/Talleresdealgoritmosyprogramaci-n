@@ -1,2 +1,2 @@
-# Talleresdealgoritmosyprogramaci-n
+# Talleresdealgoritmosyprogramacion
 Todos los talleres de algoritmos y programación
